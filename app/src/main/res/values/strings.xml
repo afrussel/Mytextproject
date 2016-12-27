@@ -1,5 +1,78 @@
 <resources>
-    <string name="app_name">EasyConference</string>
+    <string name="app_name">A Easy Conference</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_home">Contacts</string>
+    <string name="nav_find_friend">Find Friends</string>
+
+    <string name="title_activity_tools">Tools</string>
+
+    <string name="host">192.168.2.34</string>
+    <string name="port">3000</string>
+    <string name="title_activity_message">Login</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Text chat fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+
+    <string name="prompt_username">Username</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_old_password">Old Password</string>
+    <string name="prompt_new_password">New Password</string>
+    <string name="prompt_confilm_password">Confirm Password</string>
+    <string name="prompt_confilm_new_password">Confirm New Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_send_request">Send request</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="invalid_email">This email address is invalid</string>
+    <string name="invalid_password">Password is too short</string>
+    <string name="incorrect_password">Password is incorrect</string>
+    <string name="field_required">This field is required</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_profile_view">Profile</string>
+    <string name="title_activity_profile_edit">Profile Edit</string>
+    <string name="title_activity_change_password">Change Password</string>
+    <string name="title_activity_forget_password">Reset your password</string>
+
+    <string name="title_activity_call">CallActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="action_change_password">Change Password</string>
+    <string name="action_edit">Edit Profile</string>
+    <string name="action_next">Next</string>
+    <string name="action_profile_view">Profile</string>
+    <string name="action_un_friend">Un Friend</string>
+    <string name="action_video_call">Video Call</string>
+    <string name="action_update">Update</string>
+    <string name="action_chose_pro_pic">Chose Pro Pic</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_middle_name">Middle Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_age">Age</string>
+    <string name="prompt_sex">Sex</string>
+    <string name="action_forget_password">Send password reset email</string>
+    <string name="audio_album">Audio Album</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="duration">Duration</string>
+    <string name="add">Add to Contacts</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+
+    <string name="ok_text">OK Text</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="app_dialog_title">Javascript</string>
+    <string name="title_activity_login_success">LoginSuccessActivity</string>
 
     <string name="welcome_1">Welcome!</string>
     <string name="welcome_2">Feature Packed</string>
@@ -40,5 +113,4 @@
     <string name="cname">Conference name (optional)</string>
     <string name="people_to_invite">People to invite</string>
     <string name="from">From</string>
-
 </resources>

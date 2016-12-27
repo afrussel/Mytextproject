@@ -1,10 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <color name="transparent">#00000000</color>
-    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary">#3A2D3E</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#838181</color>
+
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorLightDark">#ececec</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorDarkGray">#696666</color>
+
+    <color name="colorRed500">#f44336</color>
+    <color name="colorRed700">#d32f2f</color>
+
+    <color name="colorPink500">#e91e63</color>
+    <color name="colorPink700">#c2185b</color>
+
+    <color name="colorPurple500">#9c27b0</color>
+    <color name="colorPurple700">#7b1fa2</color>
+
+
+    <color name="colorDeepPurple500">#673ab7</color>
+    <color name="colorDeepPurple700">#512da8</color>
+
+    <color name="colorIndigo500">#3f51b5</color>
+    <color name="colorIndigo700">#3949ab</color>
+
+    <color name="colorBlue500">#2196f3</color>
+    <color name="colorBlue700">#1976d2</color>
+
+
+    <color name="colorLightBlue700">#0288d1</color>
+    <color name="colorLightBlue900">#01579b</color>
+
+    <color name="colorCyan700">#0097a7</color>
+    <color name="colorCyan900">#006064</color>
+
+    <color name="colorTeal500">#009688</color>
+    <color name="colorTeal700">#00796b</color>
+
+    <color name="colorGreen700">#388e3c</color>
+    <color name="colorGreen900">#1b5e20</color>
+
+    <color name="colorLightGreen700">#689f38</color>
+    <color name="colorLightGreen900">#33691e</color>
+
+    <color name="colorLime800">#9e9d24</color>
+    <color name="colorLime900">#827717</color>
+
+    <color name="colorYellow800">#f9a825</color>
+    <color name="colorYellow900">#f57f17</color>
+
+    <color name="colorAmber800">#ff8f00</color>
+    <color name="colorAmber900">#ff6f00</color>
+
+    <color name="colorOrange800">#ef6c00</color>
+    <color name="colorOrange900">#e65100</color>
+
+    <color name="colorDeepOrange800">#d84315</color>
+    <color name="colorDeepOrange900">#bf360c</color>
+
+    <color name="colorBrown800">#4e342e</color>
+    <color name="colorBrown900">#3e2723</color>
+
+    <color name="colorGrey800">#424242</color>
+    <color name="colorGrey900">#212121</color>
+
+    <color name="colorBlueGrey800">#37474f</color>
+    <color name="colorBlueGrey900">#263238</color>
+
+
+    <color name="color_white">#fefefe</color>
+    <color name="color_Black">#000000</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="new_user_profile_border_color">#a7a9ab</color>
+    <color name="Black">#000000</color>
+    <color name="no_image_user_short_name">#FFFFFF</color>
+    <color name="chat_date_time">#000000</color>
+    <color name="background_light_yo">#75ffffff</color>
+    <color name="off_white">#F5F5F5</color>
+    <color name="transparent">#00000000</color>
+    <color name="app_black_transparent">#97000000</color>
+    <color name="messages_status_bar_color">#29aeb2</color>
+    <color name="messages_fab_color">#33d9df</color>
+    <color name="app_background">#33356C</color>
+    <color name="White">#FFFFFF</color>
+
+    <color name="colorSecondaryText">#727272</color>
+    <color name="colorPrimaryText">#212121</color>
+
+    <color name="colorLoginPrimary">#3F51B5</color>
+    <color name="colorLoginPrimaryDark">#4F4055</color>
+    <color name="colorLoginAccent">#fff</color>
+    <color name="colorScreenText">#31C3F6</color>
+
+
+    <color name="footerBg">#1F1F1F</color>
+    <color name="transparentBlack">#1F1F1F</color>
+
+
 
     <color name="light_black">#E5E5DE</color>
     <color name="black">#000000</color>
@@ -22,5 +119,4 @@
     <color name="pressed_red">#CC4130</color>
     <color name="dark_red">#DD4B39</color>
     <color name="dark_blue">#41AAD3</color>
-
 </resources>
