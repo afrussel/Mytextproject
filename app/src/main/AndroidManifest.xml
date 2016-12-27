@@ -15,6 +15,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".IntroScreenActivity"></activity>
+        <activity android:name=".SignUpActivity"></activity>
+        <activity android:name=".LogInActivity"></activity>
+        <activity android:name=".PictureActivity"></activity>
+        <activity android:name=".ConferenceRoomActivity"></activity>
+        <activity android:name=".ConferenceInfoActivity"></activity>
+        <activity android:name=".ScheduleActivity"></activity>
     </application>
 
 </manifest>

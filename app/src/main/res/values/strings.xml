@@ -1,3 +1,44 @@
 <resources>
-    <string name="app_name">Mytextproject</string>
+    <string name="app_name">EasyConference</string>
+
+    <string name="welcome_1">Welcome!</string>
+    <string name="welcome_2">Feature Packed</string>
+    <string name="welcome_3">Get Started Now</string>
+
+    <string name="join_to_yo_1">Send any sized video, app, photo, or file at lightning speeds, without the Internet.</string>
+    <string name="join_to_yo_2">Free yourself from expensive data costs and limits! Watch savings add up.</string>
+    <string name="join_to_yo_3">Offline sharing works everywhere - at school, on the run, or on Mars.</string>
+    <string name="sign_up_text_1">Sign up with your social accounts:</string>
+    <string name="sign_up_text_2">Sign up with your email address</string>
+    <string name="create_account">Create Account</string>
+    <string name="or">Or</string>
+    <string name="facebook_signin">Sign in with Facebook</string>
+    <string name="google_plus_signin">Sign in with Google</string>
+    <string name="linkedin_signin">Sign in with Linkedin</string>
+    <string name="terms_service">By Signing up, you accept our Terms of Service</string>
+
+    <string name="log_in_text_1">Log in with your social accounts:</string>
+    <string name="log_in_text_2">Log in with your email address</string>
+    <string name="Login">Log IN</string>
+    <string name="forget_password">I Forgot My Password</string>
+    <string name="url_generator_text">Choose your EasyConference URL. This is where people will go to see your conference and any shared documents.</string>
+
+    <string name="welcome_conference_room">Welcome to Your Conference Room!</string>
+    <string name="conference_pin">Conference : 852-216-4168 PIN: 43694</string>
+    <string name="share_info">Share this info</string>
+    <string name="conference_info_text">People can connect to your conference at any time, using the info below</string>
+
+    <string name="conference_url">Conference URL</string>
+    <string name="conference_url_name">uberconference.com/rasel</string>
+    <string name="conference_number_title">Conference Number</string>
+    <string name="conference_number">857-216-4168</string>
+    <string name="pin_number_title">Pin</string>
+    <string name="pin_number">43694</string>
+
+    <string name="cancle">cancle</string>
+    <string name="next">Next</string>
+    <string name="cname">Conference name (optional)</string>
+    <string name="people_to_invite">People to invite</string>
+    <string name="from">From</string>
+
 </resources>
