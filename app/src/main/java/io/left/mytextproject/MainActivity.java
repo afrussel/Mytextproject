@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button introScreen, signUpForm, logInForm, pictureForm, conferenceRoom, conferenceInfo, scheduleButton;
+    Button introScreen, signUpForm, logInForm, pictureForm, conferenceRoom, conferenceInfo, scheduleButton, viewPagerButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -127,6 +127,9 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+
+
 
 
     }
